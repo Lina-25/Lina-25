@@ -1,27 +1,49 @@
 # Hi, I'm Lina! 👋✨
 
-I’m a **Data Enthusiast** passionate about **Data Analysis**. 📊 I’m always on the lookout for insights that can help businesses make data-driven decisions and improve their performance. I'm committed to expanding my skills and exploring new tools to grow as a data professional.
+### About Me:
+I’m a **Data Enthusiast** passionate about **Data Analysis**. 📊 I’ve translated my marketing experience into my love for data, discovering how the power of data can boost business results, optimize processes, and help make informed decisions. I’m excited to continue learning and using data to drive business success!
 
-### Tools and Technologies I work with:
-- **Excel** 📊: My primary tool for data analysis and creating reports.
-- **Tableau** 📈: Designing interactive dashboards for powerful data visualization.
-- **Power BI** 📊: Creating detailed reports to help businesses leverage their data.
-- **SQL** 🧑‍💻: Writing complex queries to extract, manipulate, and analyze data.
-- **Azure** ☁️: Utilizing cloud services for data storage and processing.
-- **Python** 🐍: Writing code for data manipulation and analysis, especially with Pandas and NumPy.
+---
 
-### What I’m Currently Working On:
-I’m currently focused on:
-- **Sales and Profit Analysis** 📈: Exploring data to uncover meaningful insights and trends.
-- Building interactive and visually engaging **Tableau** and **Power BI** dashboards.
-- Writing **SQL** queries to efficiently extract and manipulate data.
-- Gaining hands-on experience with **Azure** for cloud-based data solutions.
-- Using **Python** for data analysis with libraries like Pandas.
+### 🛠️ Tools & Technologies I'm Working With:
+- **Excel** 📊: Analyzing and manipulating data with powerful formulas and pivot tables.
+- **SQL** 🖥️: Writing queries to extract and manipulate data.
+- **Tableau** 📈: Building interactive data visualizations to uncover insights.
+- **Power BI** 📊: Creating dashboards that tell a clear data story.
+- **Azure** ☁️: Leveraging cloud-based solutions for data management.
+- **Python** 🐍: Using **Pandas** (my favorite library!) for data analysis and manipulation.
 
-I have hands-on experience with these tools and am continually refining my skills to tackle more complex data challenges.
+---
 
-### Let’s Connect
+### 🔭 What I'm Currently Working On:
+- **Sales and Profit Analysis** 📉: Analyzing data to identify trends and provide actionable insights.
+- Building dynamic **Tableau** and **Power BI** dashboards for visual storytelling.
+- Writing efficient **SQL** queries to extract and clean data.
+- Exploring **Azure** cloud services for managing data storage and solutions.
+- Deepening my knowledge of **Python** and **Pandas** to streamline data analysis.
+
+---
+
+### 🎯 My Goals:
+- **Master Data Engineering**: Expand my skills in **SQL**, **Azure**, and cloud-based data solutions.
+- **Enhance Data Visualization**: Improve my ability to create more advanced and interactive dashboards in **Tableau** and **Power BI**.
+- **Refine Data Analysis**: Strengthen my proficiency in **Python** and **SQL** to analyze data more effectively.
+
+---
+
+### ⚡ Fun Fact:
+My marketing background helps me understand the real-world power of data. I love using data to drive business decisions, optimize performance, and uncover new opportunities. One of my favorite things to work with is **Pandas**—it makes data manipulation in **Python** so much easier and more efficient! 😄
+
+---
+
+
+---
+
+Feel free to reach out if you'd like to talk data, share ideas, or just chat about how data can be used to make a real difference in business! 😄
+
+---
+
+### 📫 Let's Connect:
 - **LinkedIn**: https://www.linkedin.com/in/lina-selim-london/
 
-
-Feel free to reach out if you'd like to discuss data, share ideas, or explore potential collaborations.
+---
